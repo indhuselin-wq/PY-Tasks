@@ -22,7 +22,7 @@ else:
     print("Number of attempts=",attempts)
 
 
-#Screambled word
+#Scrambled word
 
 
 import random
